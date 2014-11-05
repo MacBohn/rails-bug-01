@@ -4,4 +4,5 @@ class QuotesController < ApplicationController
     @quotes = Quote.all
   end
 
+
 end
